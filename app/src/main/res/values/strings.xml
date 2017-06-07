@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cardinal</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="speed">speed</string>
+    <string name="degrees">degrees</string>
+    <string name="cardinal">cardinal</string>
+
+
+    <!--Cardinal direction names-->
+    <string name="n">North</string>
+    <string name="nne">North North East</string>
+    <string name="ne">North East</string>
+    <string name="ene">East North East</string>
+    <string name="e">East</string>
+    <string name="ese">East South East</string>
+    <string name="se">South East</string>
+    <string name="sse">South South East</string>
+    <string name="s">South</string>
+    <string name="ssw">South South West</string>
+    <string name="sw">South West</string>
+    <string name="wsw">West South West</string>
+    <string name="w">West</string>
+    <string name="wnw">West North West</string>
+    <string name="nw">North West</string>
+    <string name="nnw">North North West</string>
+
+</resources>
